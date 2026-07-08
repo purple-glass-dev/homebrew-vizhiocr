@@ -1,6 +1,6 @@
 cask "vizhi-ocr" do
-  version "0.1.0"
-  sha256 "e61e8901b7ffeace138ab099a2bbe7292c5a1ec97602a665708905a4998ce48f"
+  version "0.2.0"
+  sha256 "f5723da4b4cdda19a301ca1340ff3fa40da14556d8cb424d5b53fc0d07581b02"
 
   url "https://github.com/purple-glass-dev/vizhi-ocr/releases/download/v#{version}/VizhiOCR-#{version}.dmg"
   name "Vizhi OCR"
