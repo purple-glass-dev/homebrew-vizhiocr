@@ -7,7 +7,7 @@ cask "vizhi-ocr" do
   desc "On-device OCR menu bar app powered by MLX vision models"
   homepage "https://github.com/purple-glass-dev/vizhi-ocr"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "VizhiOCR.app"
 
